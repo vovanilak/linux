@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =5
+let g:netrw_dirhist_5='/home/vovanilak/Dropbox/Projects/en'
+let g:netrw_dirhist_4='/home'
+let g:netrw_dirhist_3='/home/vovanilak'
+let g:netrw_dirhist_2='/home/vovanilak/.config'
+let g:netrw_dirhist_1='/home/vovanilak/.config/nvim'
+let g:netrw_dirhist_0='/home/vovanilak'
+let g:netrw_dirhist_9='/home/vovanilak/Dropbox/Resources/Linux/config/sway'
+let g:netrw_dirhist_8='/home/vovanilak/Dropbox/Resources/Linux/config'
+let g:netrw_dirhist_7='/home/vovanilak/.config/plugged/vim-snippets/UltiSnips'
+let g:netrw_dirhist_6='/home/vovanilak'
